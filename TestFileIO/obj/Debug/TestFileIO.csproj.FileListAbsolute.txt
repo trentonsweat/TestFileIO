@@ -1,0 +1,7 @@
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\bin\Debug\TestFileIO.exe.config
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\bin\Debug\TestFileIO.exe
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\bin\Debug\TestFileIO.pdb
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.csprojResolveAssemblyReference.cache
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.csproj.CoreCompileInputs.cache
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.exe
+C:\Users\Marilyn\Documents\Bootcamp\TestFileIO\TestFileIO\obj\Debug\TestFileIO.pdb

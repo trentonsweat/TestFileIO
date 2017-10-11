@@ -1,0 +1,6 @@
+Jeep	Compass	2015	30000
+Chevy	Cruze	2017	20000
+Jeep	Compass	2015	30000
+Chevy	Cruze	2017	20000
+Jeep	Compass	2015	30000
+Chevy	Cruze	2017	20000
